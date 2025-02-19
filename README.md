@@ -1,3 +1,7 @@
+# This is not the Official Repo - See https://github.com/togethercomputer/together-typescript
+
+
+
 <div align="center">
   <div>
     <h1 align="center">Together.ai Node SDK</h1>
